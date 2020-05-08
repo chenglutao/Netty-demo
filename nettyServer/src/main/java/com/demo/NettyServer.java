@@ -10,7 +10,6 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
  * @author chenglutao
- * @date 2019-12-02 17:05
  */
 public class NettyServer {
     private static final int PORT = 8089;

@@ -7,7 +7,6 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author chenglutao
- * @date 2019-12-02 17:06
  */
 @Slf4j
 public class ParentServerHandler extends ChannelInboundHandlerAdapter {

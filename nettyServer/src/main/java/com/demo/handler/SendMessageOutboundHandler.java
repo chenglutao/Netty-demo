@@ -6,7 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * @author chenglutao
- * @date 2019-12-05 16:19
  */
 @Slf4j
 public class SendMessageOutboundHandler extends ChannelOutboundHandlerAdapter {

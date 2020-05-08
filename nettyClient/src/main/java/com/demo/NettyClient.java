@@ -12,7 +12,6 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
  * @author chenglutao
- * @date 2019-12-02 16:11
  */
 public class NettyClient {
     private static final String HOST = "127.0.0.1";
