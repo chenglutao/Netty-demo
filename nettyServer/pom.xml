@@ -15,7 +15,7 @@
         <junit.version>4.12</junit.version>
         <log4j2.version>2.8.2</log4j2.version>
         <lombok.version>1.18.10</lombok.version>
-        <commons-io.version>2.6</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <commons-lang3.version>3.6</commons-lang3.version>
         <commons-codec.version>1.10</commons-codec.version>
         <netty-all.version>4.1.43.Final</netty-all.version>
